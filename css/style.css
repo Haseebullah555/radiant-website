@@ -360,7 +360,7 @@ img {
   color: #fff;
   text-align: center;
   cursor: pointer;
-  background: maroon;
+  background: #90192c;
   transition: 1s ease;
 }
 .scroll-top:hover{
@@ -784,7 +784,7 @@ img {
   position:relative;
   width:100%;
   padding: 7px 30px;
-  border-bottom: 1px solid rgba(253, 87, 28, 0.3);
+  border-bottom: 1px solid #90192c;
   transition: all 500ms ease;
 }
 
@@ -1485,6 +1485,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .main-slider .content-box .button-box .video-button a:hover,
 .main-slider .content-box .button-box .link-button a:hover{
   background: #fff;
+  color: maroon
 }
 
 .main-slider .image-box{
@@ -2132,6 +2133,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: block;
   font-size: 16px;
   color: maroon;
+  text-shadow: 0px 0px 5px #fff;
   margin-bottom: 6px;
 }
 
@@ -2151,6 +2153,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 30px;
   line-height: 28px;
   color: maroon;
+  text-shadow: 0px 0px 5px #fff;
   font-weight: 700;
   margin-bottom: 27px;
 }
@@ -2175,6 +2178,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 45px;
   line-height: 45px;
   color: maroon;
+  text-shadow: 0px 0px 5px #fff;
   margin-bottom: 15px;
 }
 
@@ -2237,6 +2241,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   transform: translateX(-50%);
   font-size: 50px;
   color: maroon;
+  text-shadow: 0px 0px 5px #fff;
   background: #39404c;
   width: 130px;
   height: 130px;
